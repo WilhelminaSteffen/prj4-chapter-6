@@ -5,6 +5,7 @@ body {
 
 	background-color: #BDA0CB;
 	color: #A5435C;
+	font-weight: bold;
 }
 
 .cloud-background {
@@ -15,6 +16,4 @@ body {
 	background-color: #E6E6FA
 }
 
-.my-navbar {
-	position: fixed;
-}
+
