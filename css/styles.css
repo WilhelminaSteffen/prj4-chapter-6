@@ -8,9 +8,9 @@ body {
 }
 
 .cloud-background {
-	background-image: url("../images/background.jpg");
+	background-image: url("../images/clouds.jpg");
 }
 
-.my-navbar {
-	background-color: #8B668B;
+.card-background {
+	background-color: #E6E6FA
 }
