@@ -3,5 +3,14 @@
 
 body {
 
-	background-color: #BDA0CB
+	background-color: #BDA0CB;
+	color: #A5435C;
+}
+
+.cloud-background {
+	background-image: url("../images/background.jpg");
+}
+
+.my-navbar {
+	background-color: #8B668B;
 }
