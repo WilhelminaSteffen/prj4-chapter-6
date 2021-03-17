@@ -20,3 +20,16 @@ body {
 footer p{
 	color: #BDA0CB
 }
+
+h4 {
+	margin-left: 20px;
+
+}
+
+.contestants h4 {
+	margin-left: 20px;
+}
+
+p {
+	margin-left: 20px;
+}
