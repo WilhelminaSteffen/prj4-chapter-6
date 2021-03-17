@@ -12,8 +12,11 @@ body {
 	background-image: url("../images/clouds.jpg");
 }
 
-.card-background {
+.card-body {
 	background-color: #E6E6FA
 }
 
 
+footer p{
+	color: #BDA0CB
+}
